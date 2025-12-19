@@ -60,7 +60,7 @@ allprojects {
 
 ```gradle
 dependencies {
-    implementation 'com.github.yourusername:AndroidAlerter:1.0.0'
+  	        implementation("com.github.Excelsior-Technologies-Community:AndroidAlerter:1.0.0")
 }
 ```
 
