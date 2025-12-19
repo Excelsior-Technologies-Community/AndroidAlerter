@@ -14,10 +14,10 @@ Perfect for success messages, warnings, info alerts, loading states, or any temp
 ## 📸 Preview
 | Default Alert | Colored + Custom Icon | Text Only | Progress Alert |
 |---------------|-----------------------|-----------|----------------|
-| ![Default Alert](https://via.placeholder.com/360x200/FFB300/FFFFFF?text=Default+Alert) | ![Custom Icon](https://via.placeholder.com/360x200/2196F3/FFFFFF?text=Custom+Icon+%26+Tint) | ![Text Only](https://via.placeholder.com/360x200/424242/FFFFFF?text=Text+Only+Alert) | ![Progress](https://via.placeholder.com/360x200/1976D2/FFFFFF?text=Progress+Bar+Alert) |
+| ![Default Alert](app/src/main/assets/Media.jpg) | ![Custom Icon](app/src/main/assets/Media_3.jpg) | ![Text Only](app/src/main/assets/Media_1.jpg) | ![Progress](app/src/main/assets/Media_2.jpg) |
 
 <div align="center">
-  <img src="app/src/main/assets/reel_gif.gif" height="500" />
+  <img src="app/src/main/assets/screen-20251219-140857.gif" height="500" />
 </div>
 
 ---
