@@ -45,6 +45,6 @@ dependencies {
     implementation(libs.androidx.constraintlayout)
     testImplementation(libs.junit)
     androidTestImplementation(libs.androidx.junit)
-    androidTestImplementation(libs.androidx.espresso.core)
     implementation(project(":android_alerter"))
+    androidTestImplementation(libs.androidx.espresso.core)
 }
